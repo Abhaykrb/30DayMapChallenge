@@ -33,7 +33,7 @@ For this theme of map I prepared height map showing Population density of Nepal 
 
 **4. 3D Map**
 
-In this theme I had prepared a 3D interactive map of Butwal
+In this theme I had prepared a 3D interactive map of Butwal; can be viewed [here](http://keshavrajbhusal.com.np/maps/)
 
 *Data:*
 1. Satellite imagery: Sentinel 2020
